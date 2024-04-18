@@ -23,7 +23,7 @@ Currency Counter CLI is a simple command-line tool built with Node.js for quickl
       </svg>
     </span>
       </a>
-  <a href="https://github.com/Muhammadtalha678/currency-converter"
+  <a href="https://github.com/Muhammadtalha678"
       style ="text-decoration: none;font-size: 18px;color: #cb3837;
     text-decoration: none;
     font-weight: normal;
