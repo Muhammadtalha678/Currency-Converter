@@ -1,0 +1,23 @@
+{
+  "name": "@muhammad-talha678/currency-converter",
+  "version": "1.0.0",
+  "description": "Currency Converter cli app using TypeScript and NodeJs",
+  "keywords": ["Currency Couverter", "CLI tool", "Node.js", " Command-line interface", "Currency coonverter", "Inquirer.js", "NPM package"],
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Talha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
