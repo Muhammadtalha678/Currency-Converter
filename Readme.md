@@ -16,11 +16,8 @@ Currency Counter CLI is a simple command-line tool built with Node.js for quickl
 + inquirer
 
 ## Contributors
-<ul>
-  <li class="custom-list-item" style= "position: relative;
-    list-style: none;
-    padding-left: 30px;"> 
-      <a style="text-decoration:none ; color: grey" href="https://www.npmjs.com/package/@muhammad-talha678/currency-converter">
+
+<a style="text-decoration:none ; color: grey" href="https://www.npmjs.com/package/@muhammad-talha678/currency-converter">
     <span class="link-icon opacity: 1;" style="position: absolute;
     left: 0;
     top: 50%;
@@ -34,9 +31,6 @@ Currency Counter CLI is a simple command-line tool built with Node.js for quickl
       </svg>
     </span>
       </a>
-  </li>
-</ul>
-
  <li>
     <a href="https://github.com/Muhammadtalha678"
       style ="text-decoration: none;font-size: 18px;color: #cb3837;
