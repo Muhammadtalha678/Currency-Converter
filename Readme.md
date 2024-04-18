@@ -17,12 +17,4 @@ Currency Counter CLI is a simple command-line tool built with Node.js for quickl
 
 ## Contributors
 
- <li>
-    <a href="https://github.com/Muhammadtalha678"
-      style ="text-decoration: none;font-size: 18px;color: #cb3837;
-    text-decoration: none;
-    font-weight: normal;
-    line-height: 1.4;
-     "> Muhammad Talha</a>
-</li>
-
++ [Muhammad Talha](https://github.com/Muhammadtalha678)
