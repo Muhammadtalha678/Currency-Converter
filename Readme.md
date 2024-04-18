@@ -32,25 +32,3 @@ Currency Counter CLI is a simple command-line tool built with Node.js for quickl
   </li>
 </ul>
 
-<style>
-  .custom-list-item {
-    position: relative;
-    list-style: none;
-    padding-left: 30px; /* Adjust indentation */
-  }
-  
-  .link-icon {
-    position: absolute;
-    left: 0;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 20px;
-    height: 20px;
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
-  
-  .custom-list-item:hover .link-icon {
-    opacity: 1;
-  }
-</style>
